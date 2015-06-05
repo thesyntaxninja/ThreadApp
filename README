@@ -1,0 +1,6 @@
+The purpose of this problem sets is to give you practical experience with the creating a GUI application in a form, and using the C# threading model.
+ 
+After you have completed these problem, you will have built a program that is a C# Windows application 
+The application will be forms based and will use a panel, buttons, color chooser dialog, graphics objects, and threads
+The user will be able to select a shape and color, and thread speed.  Then the selected shape will bounce inside the panel.  The program will use separate thread to manage and draw each shape.
+You also need to include a pause/restart button.  When a user strikes pause, all shapes need to freeze on the screen.  When the user hits pause/resume again all shapes need to resume moving.
